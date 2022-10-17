@@ -44,4 +44,3 @@ This project is licensed under the MIT License. See [LICENSE](https://opensource
 
 ---
 
-Made with love by Carlos Levir :wave: [Get in touch](https://www.linkedin.com/in/carlos-levir/)
